@@ -1,0 +1,45 @@
+<html>
+
+<head>
+  <title>All Recipes</title> 
+</head>
+
+<body>
+
+  <header>
+    <h1>Delicious Recipes</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="recipes.html">All Recipes</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>All Recipes</h2>
+    
+    <div>
+      <img src="pasta.jpg" width="200">
+      <h3><a href="shrimp-pasta.html">Creamy Shrimp Pasta</a></h3> 
+    </div>
+    
+    <div>
+     <img src="salad.jpg" width="200">
+     <h3><a href="spinach-salad.html">Strawberry Spinach Salad</a></h3>
+    </div>
+    
+    <div>
+      <img src="curry.jpg" width="200">
+      <h3><a href="coconut-curry.html">Coconut Vegetable Curry</a></h3>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Delicious Recipes</p>
+  </footer>
+
+</body>
+</html>
